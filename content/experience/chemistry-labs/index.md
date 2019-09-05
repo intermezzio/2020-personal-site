@@ -1,15 +1,18 @@
 ---
 title: 'Chemistry Labs'
 date: 2019-02-11T19:27:37+10:00
-weight: 2
+weight: 5
 ---
 
-To use this theme you will need to have Hugo installed. If you don't already have Hugo installed please follow the official [installation guide](https://gohugo.io/getting-started/installing/)
+In my junior year of high school, I wrote a series of websites from scratch that calculated data from chemistry labs. My analyses included algebraic data analysis as well as visual data. The homepage for this series of websites is https://intermezzio.github.io/ChemistryLabs.
 
-### Check Hugo Version
 
-This theme uses [Hugo Pipes](https://gohugo.io/hugo-pipes/scss-sass/) to compile SCSS and minify assets. Please make sure you have the `Hugo Extended` version installed. If you are not using the extended version this theme will not not compile.
+### Skills
 
-```
-hugo version
-```
+* HTML/CSS
+* JS
+* chart.js library
+
+### Visualization
+
+![](/chemistrylabs-graph.png)
