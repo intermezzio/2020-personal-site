@@ -11,7 +11,7 @@ In my junior year of high school, I wrote a series of websites from scratch that
 
 * HTML/CSS
 * JS
-* chart.js library
+	* chart.js
 
 ### Visualization
 

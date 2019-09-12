@@ -4,14 +4,15 @@ date: 2019-02-11T19:27:37+10:00
 weight: 6
 ---
 
-Along with two other students, I created an interactive website that teaches calculus. The website features randomly generated practice problems along with 
+Along with two other students, I created an interactive website that teaches calculus. The website features detailed lessons with randomly generated practice problems and interactive graphs. The complete site can be found at https://intermezzio.github.io/Intermezzio_Derive/
 
 ### Skills
 
 * HTML/CSS
+	* materialize.css
 * JS
-* chart.js library
+	* MathJax
 
 ### Visualization
 
-![](/chemistrylabs-graph.png)
+![](/calcsite.png)

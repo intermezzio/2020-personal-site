@@ -2,7 +2,7 @@ baseURL = "www.intermezzio.github.io"
 languageCode = "en-us"
 title = "Andrew Mascillaro"
 theme = "hugo-whisper-theme"
-publishDir = "/docs"
+publishDir = "docs"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -39,7 +39,7 @@ pygmentsUseClasses = true
   homepage_button_text = 'Learn More'
   homepage_intro = 'Andrew Mascillaro is an engineering student at Olin College of Engineering.'
   homepage_image = 'git-puns.gif'
-  homepage_caption = "yes"
+  homepage_caption = ""
 
   [params.homepage_meta_tags]
     meta_description = "Hugo Whisper is a documentation theme built with Hugo."
@@ -47,7 +47,7 @@ pygmentsUseClasses = true
     meta_og_type = "website"
     meta_og_url = "https://intermezzio.github.io"
     meta_og_image = "intermezzio_logo.png"
-    meta_og_caption = "yes" 
+    meta_og_caption = "" 
     meta_og_description = "Andrew Mascillaro is an engineering student at Olin College of Engineering."
 
   [params.logo]

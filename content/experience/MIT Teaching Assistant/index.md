@@ -4,8 +4,7 @@ date: 2019-02-11T19:27:37+10:00
 weight: 2
 ---
 
-In my junior year of high school, I wrote a series of websites from scratch that calculated data from chemistry labs. My analyses included algebraic data analysis as well as visual data. The homepage for this series of websites is https://intermezzio.github.io/ChemistryLabs
-
+Before my first year of college, I worked for MIT's School of Engineering as a TA for the Beaver Works Summer Institute. With a team of program faculty members, I created course content for the Remote Sensing for Crisis Response program, as it was the first year the course was offered. I worked with Raspberry Pis on kites to take aerial images, and used Flask to present the images on a website. In addition, I built a couple of websites as documentation for the course.
 
 ### Skills
 
@@ -13,6 +12,7 @@ In my junior year of high school, I wrote a series of websites from scratch that
 * JS
 * chart.js library
 
-### Visualization
+### Documentation
 
-![](/chemistrylabs-graph.png)
+[Course Overview](https://bwsi-hadr.github.io/00-course-overview/) \
+[JEFFRIS Project](https://bwsi-hadr.github.io/JEFFRIS/)

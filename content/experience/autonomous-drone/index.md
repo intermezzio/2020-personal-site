@@ -10,8 +10,9 @@ Before my senior year of high school, I enrolled in the MIT Beaver Works Summer 
 ### Skills
 
 * Python
-* Robot Operating System (ROS)
+	* Robot Operating System (ROS)
 * Ubuntu
+	* Bash
 
 ### Source Code
 
