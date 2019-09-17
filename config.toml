@@ -1,4 +1,4 @@
-baseURL = "www.intermezzio.github.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "Andrew Mascillaro"
 theme = "hugo-whisper-theme"
