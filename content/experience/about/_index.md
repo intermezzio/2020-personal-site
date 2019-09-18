@@ -3,7 +3,7 @@ title: 'About Me'
 date: 2018-11-28T15:14:39+10:00
 ---
 
-My name is Andrew Mascillaro, and I am an engineering student at Olin College of Engineering. Most of my engineering experience is software-based, although I have experinces in multiple engineering fields. Some of my personal hobbies and extracurriculars include playing chess and frisbee.
+My name is Andrew Mascillaro, and I am an engineering student at Olin College of Engineering. Most of my engineering experience is software-based, although I have experinces in multiple engineering fields. Some of my personal hobbies and extracurriculars include chess and speed memorization.
 
 ### Contact
 
