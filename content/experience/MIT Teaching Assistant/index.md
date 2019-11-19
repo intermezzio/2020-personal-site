@@ -8,9 +8,14 @@ Before my first year of college, I worked for MIT's School of Engineering as a T
 
 ### Skills
 
+* Python
+  * Flask
+  * OpenCV, Pillow (Python Imaging Library)
+* Git
+* SSH
 * HTML/CSS
-* JS
-* chart.js library
+* Hugo
+* Teaching
 
 ### Documentation
 
