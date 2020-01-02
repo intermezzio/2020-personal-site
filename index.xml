@@ -17,7 +17,7 @@
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/experience/mit-teaching-assistant/</guid>
-      <description>Before my first year of college, I worked for MIT&amp;rsquo;s School of Engineering as a TA for the Beaver Works Summer Institute. With a team of program faculty members, I created course content for the Remote Sensing for Crisis Response program, as it was the first year the course was offered. I worked with Raspberry Pis on kites to take aerial images, and used Flask to present the images on a website.</description>
+      <description>Before my first year of college, I worked for MIT&#39;s School of Engineering as a TA for the Beaver Works Summer Institute. With a team of program faculty members, I created course content for the Remote Sensing for Crisis Response program, as it was the first year the course was offered. I worked with Raspberry Pis on kites to take aerial images, and used Flask to present the images on a website.</description>
     </item>
     
     <item>
@@ -26,8 +26,8 @@
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/experience/autonomous-drone/</guid>
-      <description>Before my senior year of high school, I enrolled in the MIT Beaver Works Summer Institute, where I worked with a team of students from across the country to programmed a drone to fly autonomously. More specifically, I worked with Intel&amp;rsquo;s Ready to Fly research drones using ROS to program open loop and closed loop autonomous control.
-Skills  Python  Robot Operating System (ROS)  Ubuntu  Bash   Source Code https://github.</description>
+      <description>Before my senior year of high school, I enrolled in the MIT Beaver Works Summer Institute, where I worked with a team of students from across the country to programmed a drone to fly autonomously. More specifically, I worked with Intel&#39;s Ready to Fly research drones using ROS to program open loop and closed loop autonomous control.
+Skills  Python  Robot Operating System (ROS)   Ubuntu  Bash    Source Code https://github.</description>
     </item>
     
     <item>
@@ -46,7 +46,7 @@ Skills  Java Python RegEx Localization  Presentation Final Presentation</descrip
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/experience/lip-reader/</guid>
-      <description>At PennApps, UPenn&amp;rsquo;s largest college hackathon, I worked with a team to build a lip reader. This lip reader used machine learning in Python via a series of Google Cloud APIs to transcribe words seen in a computer&amp;rsquo;s webcam. In addition, the program also can learn a user&amp;rsquo;s voice by listening to about 10 seconds of audio. Then, it performs text-to-speech with that user&amp;rsquo;s voice. On my team, I focused on the frontend design and structure.</description>
+      <description>At PennApps, UPenn&#39;s largest college hackathon, I worked with a team to build a lip reader. This lip reader used machine learning in Python via a series of Google Cloud APIs to transcribe words seen in a computer&#39;s webcam. In addition, the program also can learn a user&#39;s voice by listening to about 10 seconds of audio. Then, it performs text-to-speech with that user&#39;s voice. On my team, I focused on the frontend design and structure.</description>
     </item>
     
     <item>
@@ -55,8 +55,8 @@ Skills  Java Python RegEx Localization  Presentation Final Presentation</descrip
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/experience/calc-site/</guid>
-      <description> Along with two other students, I created an interactive website that teaches calculus. The website features detailed lessons with randomly generated practice problems and interactive graphs. The complete site can be found at https://intermezzio.github.io/Intermezzio_Derive/
-Skills  HTML/CSS  materialize.css  JS  MathJax   Visualization </description>
+      <description>Along with two other students, I created an interactive website that teaches calculus. The website features detailed lessons with randomly generated practice problems and interactive graphs. The complete site can be found at https://intermezzio.github.io/Intermezzio_Derive/
+Skills  HTML/CSS  materialize.css   JS  MathJax    Visualization </description>
     </item>
     
     <item>
@@ -65,8 +65,8 @@ Skills  HTML/CSS  materialize.css  JS  MathJax   Visualization </description>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/experience/chemistry-labs/</guid>
-      <description> In my junior year of high school, I wrote a series of websites from scratch that calculated data from chemistry labs. My analyses included algebraic data analysis as well as visual data. The homepage for this series of websites is https://intermezzio.github.io/ChemistryLabs.
-Skills  HTML/CSS JS  chart.js   Visualization </description>
+      <description>In my junior year of high school, I wrote a series of websites from scratch that calculated data from chemistry labs. My analyses included algebraic data analysis as well as visual data. The homepage for this series of websites is https://intermezzio.github.io/ChemistryLabs.
+Skills  HTML/CSS JS  chart.js    Visualization </description>
     </item>
     
     <item>
@@ -75,8 +75,8 @@ Skills  HTML/CSS JS  chart.js   Visualization </description>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/experience/tutoring/</guid>
-      <description> Throughout high school, I tutored students in various subjects. Some of my tutoring was paid through the Creative Learning Zone company while other tutoring was volunteering through my school.
-Subjects  Math  Geometry Algebra II Precalculus  C++ Java Physics Spanish English Chess  </description>
+      <description>Throughout high school, I tutored students in various subjects. Some of my tutoring was paid through the Creative Learning Zone company while other tutoring was volunteering through my school.
+Subjects  Math  Geometry Algebra II Precalculus   C++ Java Physics Spanish English Chess  </description>
     </item>
     
   </channel>
