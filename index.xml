@@ -21,16 +21,6 @@
     </item>
     
     <item>
-      <title>Autonomous Drone</title>
-      <link>/experience/autonomous-drone/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/experience/autonomous-drone/</guid>
-      <description>Before my senior year of high school, I enrolled in the MIT Beaver Works Summer Institute, where I worked with a team of students from across the country to programmed a drone to fly autonomously. More specifically, I worked with Intel&#39;s Ready to Fly research drones using ROS to program open loop and closed loop autonomous control.
-Skills  Python  Robot Operating System (ROS)   Ubuntu  Bash    Source Code https://github.</description>
-    </item>
-    
-    <item>
       <title>iCims</title>
       <link>/experience/icims/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
@@ -50,13 +40,24 @@ Skills  Java Python RegEx Localization  Presentation Final Presentation</descrip
     </item>
     
     <item>
-      <title>Calculus Website</title>
-      <link>/experience/calc-site/</link>
+      <title>Autonomous Drone</title>
+      <link>/experience/autonomous-drone/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>/experience/calc-site/</guid>
-      <description>Along with two other students, I created an interactive website that teaches calculus. The website features detailed lessons with randomly generated practice problems and interactive graphs. The complete site can be found at https://intermezzio.github.io/Intermezzio_Derive/
-Skills  HTML/CSS  materialize.css   JS  MathJax    Visualization </description>
+      <guid>/experience/autonomous-drone/</guid>
+      <description>Before my senior year of high school, I enrolled in the MIT Beaver Works Summer Institute, where I worked with a team of students from across the country to programmed a drone to fly autonomously. More specifically, I worked with Intel&#39;s Ready to Fly research drones using ROS to program open loop and closed loop autonomous control.
+Skills  Python  Robot Operating System (ROS)   Ubuntu  Bash    Source Code https://github.</description>
+    </item>
+    
+    <item>
+      <title>Mentors In Tech</title>
+      <link>/experience/mentorsintech/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/experience/mentorsintech/</guid>
+      <description>This project was created at HackPrinceton.
+Many people want to find mentors in the same technical field as themselves. This platform allows people to create accounts and find mentors on the site that are most similar to them. Additionally, the site allows people to become mentors, and they are notified when someone requests to be mentored by them.
+Skills  Python  Flask (with user sessions)   MongoDB  MongoDB Atlas (Cloud hosting)   JQuery  Requests to and from Python   Bootstrap  Interactive frontend design    Awards  Best domain name (MLH, domain.</description>
     </item>
     
     <item>
@@ -70,6 +71,15 @@ Skills  HTML/CSS JS  chart.js    Visualization </description>
     </item>
     
     <item>
+      <title>Divestment</title>
+      <link>/experience/divestment/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/experience/divestment/</guid>
+      <description>At YHack, Yale&#39;s hackathon, my team created an application that calculates a budget for people who want to become millionaires when they turn 40 years old. Many people try to invest to make money, but they don&#39;t realize that the companies they invest in have unsustainable practices that are bad for the environment. This program creates a budget plan that solves this problem by recommending sustainable stocks to make sure that your money is invested in good companies.</description>
+    </item>
+    
+    <item>
       <title>Tutoring</title>
       <link>/experience/tutoring/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
@@ -77,6 +87,16 @@ Skills  HTML/CSS JS  chart.js    Visualization </description>
       <guid>/experience/tutoring/</guid>
       <description>Throughout high school, I tutored students in various subjects. Some of my tutoring was paid through the Creative Learning Zone company while other tutoring was volunteering through my school.
 Subjects  Math  Geometry Algebra II Precalculus   C++ Java Physics Spanish English Chess  </description>
+    </item>
+    
+    <item>
+      <title>Calculus Website</title>
+      <link>/experience/calc-site/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/experience/calc-site/</guid>
+      <description>Along with two other students, I created an interactive website that teaches calculus. The website features detailed lessons with randomly generated practice problems and interactive graphs. The complete site can be found at https://intermezzio.github.io/Intermezzio_Derive/
+Skills  HTML/CSS  materialize.css   JS  MathJax    Visualization </description>
     </item>
     
   </channel>
