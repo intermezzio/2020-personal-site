@@ -17,7 +17,7 @@
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/experience/mit-teaching-assistant/</guid>
-      <description>Before my first year of college, I worked for MIT&#39;s School of Engineering as a TA for the Beaver Works Summer Institute. With a team of program faculty members, I created course content for the Remote Sensing for Crisis Response program, as it was the first year the course was offered. I worked with Raspberry Pis on kites to take aerial images, and used Flask to present the images on a website.</description>
+      <description>Before my first year of college, I worked for MIT&amp;rsquo;s School of Engineering as a TA for the Beaver Works Summer Institute. With a team of program faculty members, I created course content for the Remote Sensing for Crisis Response program, as it was the first year the course was offered. I worked with Raspberry Pis on kites to take aerial images, and used Flask to present the images on a website.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@ Skills  Java Python RegEx Localization  Presentation Final Presentation</descrip
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/experience/lip-reader/</guid>
-      <description>At PennApps, UPenn&#39;s largest college hackathon, I worked with a team to build a lip reader. This lip reader used machine learning in Python via a series of Google Cloud APIs to transcribe words seen in a computer&#39;s webcam. In addition, the program also can learn a user&#39;s voice by listening to about 10 seconds of audio. Then, it performs text-to-speech with that user&#39;s voice. On my team, I focused on the frontend design and structure.</description>
+      <description>At PennApps, UPenn&amp;rsquo;s largest college hackathon, I worked with a team to build a lip reader. This lip reader used machine learning in Python via a series of Google Cloud APIs to transcribe words seen in a computer&amp;rsquo;s webcam. In addition, the program also can learn a user&amp;rsquo;s voice by listening to about 10 seconds of audio. Then, it performs text-to-speech with that user&amp;rsquo;s voice. On my team, I focused on the frontend design and structure.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ Skills  Java Python RegEx Localization  Presentation Final Presentation</descrip
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/experience/autonomous-drone/</guid>
-      <description>Before my senior year of high school, I enrolled in the MIT Beaver Works Summer Institute, where I worked with a team of students from across the country to programmed a drone to fly autonomously. More specifically, I worked with Intel&#39;s Ready to Fly research drones using ROS to program open loop and closed loop autonomous control.
+      <description>Before my senior year of high school, I enrolled in the MIT Beaver Works Summer Institute, where I worked with a team of students from across the country to programmed a drone to fly autonomously. More specifically, I worked with Intel&amp;rsquo;s Ready to Fly research drones using ROS to program open loop and closed loop autonomous control.
 Skills  Python  Robot Operating System (ROS)   Ubuntu  Bash    Source Code https://github.</description>
     </item>
     
@@ -76,7 +76,7 @@ Skills  HTML/CSS JS  chart.js    Visualization </description>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>/experience/divestment/</guid>
-      <description>At YHack, Yale&#39;s hackathon, my team created an application that calculates a budget for people who want to become millionaires when they turn 40 years old. Many people try to invest to make money, but they don&#39;t realize that the companies they invest in have unsustainable practices that are bad for the environment. This program creates a budget plan that solves this problem by recommending sustainable stocks to make sure that your money is invested in good companies.</description>
+      <description>At YHack, Yale&amp;rsquo;s hackathon, my team created an application that calculates a budget for people who want to become millionaires when they turn 40 years old. Many people try to invest to make money, but they don&amp;rsquo;t realize that the companies they invest in have unsustainable practices that are bad for the environment. This program creates a budget plan that solves this problem by recommending sustainable stocks to make sure that your money is invested in good companies.</description>
     </item>
     
     <item>
